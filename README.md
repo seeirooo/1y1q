@@ -1,2 +1,2 @@
 # 1y1q
-Projects from the first quarter of my first academic year
+🐸 Hi there! Here I'm uploading my projects of the first quarter of my first academic year, which consist on basic programs written in C++ and Java
